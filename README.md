@@ -2,7 +2,7 @@
 
 A persona-based AI chatbot that lets you have real conversations with three Scaler/InterviewBit personalities — **Anshuman Singh**, **Abhimanyu Saxena**, and **Kshitij Mishra**.
 
-**Live Demo:** [your-deployed-url-here]
+**Live Demo:** https://persona-ai-chat-bot-fawn.vercel.app/
 
 ---
 
