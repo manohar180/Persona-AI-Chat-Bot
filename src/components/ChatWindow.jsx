@@ -13,11 +13,12 @@ export default function ChatWindow({ messages, isLoading, persona }) {
     <div className="chat-window">
       {messages.length === 0 && (
         <div className="empty-state">
-          <div className="empty-avatar" style={{ '--p-accent': persona.accent }}>
-            {persona.avatar}
+          <div className="empty-avatar-ring" style={{ '--p-accent': persona.accent }}>
+            <div className="empty-avatar">{persona.avatar}</div>
           </div>
           <h2 className="empty-name">{persona.name}</h2>
           <p className="empty-tagline">{persona.tagline}</p>
+          <div className="empty-divider" />
           <p className="empty-hint">Pick a question below or type your own</p>
         </div>
       )}

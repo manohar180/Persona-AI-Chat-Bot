@@ -1,13 +1,9 @@
 export default function TypingIndicator({ persona }) {
   return (
-    <div className="typing-indicator">
-      <div className="typing-avatar" style={{ '--p-accent': persona.accent }}>
-        {persona.avatar}
-      </div>
-      <div className="typing-dots">
-        <span></span>
-        <span></span>
-        <span></span>
+    <div className="typing-row" style={{ '--p-accent': persona.accent }}>
+      <div className="msg-avatar">{persona.avatar}</div>
+      <div className="typing-bubble">
+        <span /><span /><span />
       </div>
     </div>
   )
