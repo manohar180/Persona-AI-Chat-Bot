@@ -8,7 +8,7 @@ A persona-based AI chatbot that lets you have real conversations with three Scal
 
 ## Screenshots
 
-> Add screenshots here after running locally.
+![alt text](image.png)
 
 ---
 
