@@ -8,10 +8,16 @@ A persona-based AI chatbot that lets you have real conversations with three Scal
 
 ## Screenshots
 
+### Home Screen
 ![alt text](image.png)
+
+### Persona Switching
 ![alt text](image-1.png)
-![alt text](image-2.png)
+
+### Live Conversation
 ![alt text](image-3.png)
+
+### Mobile View
 ![alt text](image-4.png)
 
 ---
